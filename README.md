@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetapugliese&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violetapugliese&repo=github-readme-stats)](https://github.com/violetapugliese/A-landing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violetapugliese&repo=github-readme-stats)](https://github.com/violetapugliese/AC-landing)
 
 
 <!--
