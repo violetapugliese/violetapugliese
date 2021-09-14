@@ -1,4 +1,10 @@
-<!-- ### Hi there 👋 -->
+ ### Hi there 👋 
+ 
+This github profile is in process.
+in the meantime...
+--> _**[e-mail](mailto:violeta.pugliese@gmail.com)**_ 
+--> _**[linkedin](https://www.linkedin.com/in/violeta-pugliese/)**_
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetapugliese&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetapugliese&theme=tokyonight)
