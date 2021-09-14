@@ -1,10 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetapugliese&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetapugliese&theme=tokyonight)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violetapugliese&repo=AC-landing)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violetapugliese&repo=AC-landing) -->
 
 <!--
 **violetapugliese/violetapugliese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
