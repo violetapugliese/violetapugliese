@@ -2,8 +2,8 @@
  
 This github profile is in process.
 in the meantime...
---> _**[e-mail](mailto:violeta.pugliese@gmail.com)**_ 
---> _**[linkedin](https://www.linkedin.com/in/violeta-pugliese/)**_
+* --> _**[e-mail](mailto:violeta.pugliese@gmail.com)**_ 
+* --> _**[linkedin](https://www.linkedin.com/in/violeta-pugliese/)**_
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetapugliese&show_icons=true&theme=tokyonight)
 
