@@ -1,6 +1,9 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=violetapugliese&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=violetapugliese)](https://github.com/violetapugliese/mostras-del-rock)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=violetapugliese&repo=AC-landing)](https://github.com/violetapugliese/AC-landing)
 
 
