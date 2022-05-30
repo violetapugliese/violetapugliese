@@ -1,6 +1,6 @@
  ### Hi there 👋 
  
-This github profile is in process.
+This github profile is in progress.
 In the meantime...
 * --> _**[e-mail](mailto:violeta.pugliese@gmail.com)**_ 
 * --> _**[linkedin](https://www.linkedin.com/in/violeta-pugliese/)**_
